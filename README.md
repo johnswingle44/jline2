@@ -8,7 +8,7 @@
     http://www.opensource.org/licenses/bsd-license.php
 
 -->
-Description
+Desc
 -----------
 
 JLine is a Java library for handling console input. It is similar in functionality to [BSD editline](http://www.thrysoee.dk/editline/) and [GNU readline](http://www.gnu.org/s/readline/). People familiar with the readline/editline capabilities for modern shells (such as bash and tcsh) will find most of the command editing features of JLine to be familiar.
